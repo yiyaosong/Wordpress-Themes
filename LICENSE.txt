@@ -1,1 +1,2 @@
 ﻿This is an license word.
+I am just learning how to use VI or VIM.
